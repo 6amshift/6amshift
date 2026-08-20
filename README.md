@@ -6,6 +6,8 @@
   <img src="https://media1.tenor.com/m/pz1dMurVcS8AAAAd/demolition-lovers-mcr.gif" width="200">
 </div>
 
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/pirates-204-C39D20">
 </p>
