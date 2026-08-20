@@ -11,11 +11,10 @@
 <details>
 <summary>about me</summary>
 
+
   victor / vic / foxy
 
   they/them pronouns
-
-     transmasc
 
 </details>
 
