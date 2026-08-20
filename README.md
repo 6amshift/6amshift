@@ -2,7 +2,9 @@
 
 ![foxy](https://media1.tenor.com/m/p0aRcHOHqZEAAAAC/fnaf-in-real-time-foxy.gif)
 
-![dmltnlvrs](https://media1.tenor.com/m/pz1dMurVcS8AAAAd/demolition-lovers-mcr.gif)
+<div align="center">
+  <img src="https://media1.tenor.com/m/pz1dMurVcS8AAAAd/demolition-lovers-mcr.gif" width="200">
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/pirates-204-C39D20">
