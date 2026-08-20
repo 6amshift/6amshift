@@ -5,3 +5,18 @@
 <p align="center">
   <img src="https://img.shields.io/badge/pirates-204-C39D20">
 </p>
+
+<div align="center">
+
+<details>
+<summary>about me</summary>
+
+  victor / vic / foxy
+
+  they/them pronouns
+
+     transmasc
+
+</details>
+
+</div>
